@@ -18,3 +18,4 @@
 /home/guts/Projects/YouDownloader/obj/Debug/net9.0/YouDownloader.pdb
 /home/guts/Projects/YouDownloader/obj/Debug/net9.0/YouDownloader.genruntimeconfig.cache
 /home/guts/Projects/YouDownloader/obj/Debug/net9.0/ref/YouDownloader.dll
+/home/guts/Projects/YouDownloader/obj/Debug/net9.0/YouDownloader.sourcelink.json

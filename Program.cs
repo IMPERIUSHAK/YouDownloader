@@ -6,14 +6,17 @@ namespace YouDownloader;
 
 class Program
 {
-    static void Main(string[] args)
+    static async Task Main(string[] args)
     {
         var bot = new YouTubeBot();
-        
+
         try
         {
             string videoUrl = UserUI.YouTubeLink();
-            bot.DownloadVid(videoUrl);
+            bot.CheckForVid(videoUrl);
+            bot.ShowAviableQualities();
+            int num = UserUI.PickQuality();
+            await bot.DownloadVid(num);
         }
         catch (Exception ex)
         {
@@ -22,7 +25,6 @@ class Program
         finally
         {
             UserUI.WaitForExit();
-            bot.Close();
         }
     }
 }
