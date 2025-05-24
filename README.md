@@ -30,4 +30,3 @@ Selenium is primarily designed for testing websites, but it also offers powerful
 
 ---
 
-Feel free to customize this project or add more automation features. Contributions are welcome! 😊
