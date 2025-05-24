@@ -27,6 +27,7 @@ Selenium is primarily designed for testing websites, but it also offers powerful
 2. Install the required packages  
 3. Run the script and enter the YouTube video URL  
 4. Let the automation handle the rest!
+5. But its still raw (project could not run correctly)
 
 ---
 
