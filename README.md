@@ -4,7 +4,7 @@
 
 This project allows you to download videos from YouTube **without visiting suspicious websites** that are often filled with pop-ups, ads, or inappropriate content (e.g., gambling, adult sites, etc.).
 
-## 🧠 What is Selenium Automation?
+## 🌐️ What is Selenium Automation?
 
 Selenium is primarily designed for testing websites, but it also offers powerful features for automation. This project demonstrates how you can use Selenium to automate simple tasks — like downloading a YouTube video — safely and efficiently.
 
